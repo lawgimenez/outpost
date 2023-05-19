@@ -1,8 +1,8 @@
 /** Color customization **/
 :root {
-  --text: #F1F1F1;
-  --background: #012030;
-  --accent: #45C4B0;
+  --text: ##202022;
+  --background: #CACACA;
+  --accent: #00747C;
 }
 
 /** Reset some basic elements */
